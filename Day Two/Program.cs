@@ -1,30 +1,40 @@
 ﻿using System;
 
-namespace RememberingConcepts
+namespace Day_2
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] _)
         {
+            if (_.Length.Equals(0))
+            {
+                double rate = 15.00;
+                int numberHoursWorked = 3;
 
-            Console.WriteLine("Welcome to my Application");
-            
-            Console.WriteLine("Enter Your Name: ");
-            string? name = Console.ReadLine();
+                numberHoursWorked += 3;
+                double calculationHours = rate * numberHoursWorked;
 
-            int myInt = 420;
-            decimal myDecimal = 420.0m;
-            double myDouble = 420.0d;
-
-            byte b = 124;
-
-            string firstName = "Ryan";
-            string lastName = "G";
-            string fullName = firstName + " " + lastName;
-            Console.WriteLine("Hell There My Name is: {0}", fullName);
+                if (calculationHours > 60)
+                {
+                    Console.WriteLine("Your a Paid Employee");
+                }
 
 
-            Console.ReadLine();
+                //char userSelection = 'a';
+
+                //char upperCaseSelection = char.ToUpper(userSelection);
+                //bool isDigit = char.IsDigit(userSelection);
+                //bool isLetter = char.IsLetter(userSelection);
+
+                DateTime d = new DateTime(2024, 9, 24, 14, 25, 0); ;
+                DateTime e = new DateTime(2024, 12, 9);
+
+
+                Console.WriteLine(calculationHours);
+                Console.ReadLine();
+            }
         }
+ 
     }
+
 }
