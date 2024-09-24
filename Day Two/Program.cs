@@ -26,19 +26,19 @@ namespace Day_2
                 //bool isDigit = char.IsDigit(userSelection);
                 //bool isLetter = char.IsLetter(userSelection);
 
-                DateTime d = new DateTime(2024, 9, 24, 14, 25, 0); ;
-                DateTime e = new DateTime(2024, 12, 9);
+                // DateTime d = new DateTime(2024, 9, 24, 14, 25, 0); ;
+                // DateTime e = new DateTime(2024, 12, 9);
 
-                long l = numberHoursWorked;
-                double d1 = 123456789.0d;
+                // long l = numberHoursWorked;
+                // double d1 = 123456789.0d;
 
-                int x = (int)d1;
+               // int x = (int)d1;
 
 
-                int varyLongMonth = (int)l;
+                //int varyLongMonth = (int)l;
 
-                Console.WriteLine(x);
-                Console.WriteLine(varyLongMonth);
+                //Console.WriteLine(x);
+                //Console.WriteLine(varyLongMonth);
                 
                 Console.WriteLine(calculationHours);
                 Console.ReadLine();
