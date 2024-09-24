@@ -5,3 +5,10 @@ C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\day-2\Day-2\Day-2\obj\D
 C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\day-2\Day-2\Day-2\obj\Debug\Day-2.csproj.CoreCompileInputs.cache
 C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\day-2\Day-2\Day-2\obj\Debug\Day-2.exe
 C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\day-2\Day-2\Day-2\obj\Debug\Day-2.pdb
+C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\Application\day-2\Day-2\Application\Day-2\bin\Debug\Day-2.exe.config
+C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\Application\day-2\Day-2\Application\Day-2\bin\Debug\Day-2.exe
+C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\Application\day-2\Day-2\Application\Day-2\bin\Debug\Day-2.pdb
+C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\Application\day-2\Day-2\Application\Day-2\obj\Debug\Day-2.csproj.AssemblyReference.cache
+C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\Application\day-2\Day-2\Application\Day-2\obj\Debug\Day-2.csproj.CoreCompileInputs.cache
+C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\Application\day-2\Day-2\Application\Day-2\obj\Debug\Day-2.exe
+C:\Users\Crawz\OneDrive\Documents\Coding\100DaysofCSharp\Application\day-2\Day-2\Application\Day-2\obj\Debug\Day-2.pdb
