@@ -34,6 +34,10 @@ namespace Day_2
 
                // int x = (int)d1;
 
+                var a = 1337;
+                var b = false;
+                var d = 1337.00;
+
 
                 //int varyLongMonth = (int)l;
 
